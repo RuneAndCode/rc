@@ -67,4 +67,4 @@
 
 ## License
 
-BSD
+BSD（不包含非自製資源）
