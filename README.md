@@ -40,8 +40,8 @@
 
 #### 程式
 
-- 卡片編輯器
-- 人物編輯器
+- [卡片編輯器](https://github.com/RuneAndCode/cardeditor)
+- [人物編輯器](https://github.com/RuneAndCode/uniteditor)
 
 #### 美工
 
