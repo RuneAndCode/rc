@@ -8,6 +8,7 @@
 
 - RC.jar：遊戲主程式
 - RCEditor.jar：地圖編輯器
+- [相關設定文件](https://drive.google.com/open?id=0By3-Ek2UsQuHaUU2bVJJRWFWSHM)
 
 ## 注意事項
 
