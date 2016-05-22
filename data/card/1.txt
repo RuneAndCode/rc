@@ -1,0 +1,16 @@
+﻿num
+1
+name
+天使祝福
+level
+1
+type
+2
+cost
+1
+effect
+1
+typegroup
+1
+comment
+回復80HP

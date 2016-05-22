@@ -1,0 +1,16 @@
+num
+7
+name
+高能源結晶體
+level
+4
+type
+2
+cost
+4
+effect
+7
+typegroup
+3
+comment
+HP、MP回復120

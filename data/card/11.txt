@@ -1,0 +1,16 @@
+num
+11
+name
+匿蹤的獨角獸
+level
+2
+type
+2
+cost
+2
+effect
+11
+typegroup
+5
+comment
+敏捷提升5，持續5秒

@@ -1,0 +1,14 @@
+num
+11
+width
+50
+height
+50
+speed
+5
+atkType
+0
+magicball
+0
+lifetime
+5

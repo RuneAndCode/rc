@@ -1,0 +1,30 @@
+num
+25
+name
+¥ì²ú¶®
+width
+50
+height
+50
+speed
+5
+baseAtk
+17
+bulletNum
+15
+mainAttribute
+3
+attribute
+16 16 21
+attributeInc
+1.7 1.6 2.9
+manaArmor
+1.0
+armor
+1.0
+skill
+13 14 15 16
+range
+100
+detectRange
+300

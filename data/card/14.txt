@@ -1,0 +1,17 @@
+num
+14
+name
+骷髏十字軍
+level
+2
+type
+1
+cost
+2
+effect
+14
+typegroup
+3
+comment
+戰死沙場的骸骨變化而成
+經常成群出現，卻又瞬間消失無蹤

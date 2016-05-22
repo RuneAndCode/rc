@@ -1,0 +1,16 @@
+﻿num
+2
+name
+萬能地雷
+level
+0
+type
+4
+cost
+1
+effect
+2
+typegroup
+1
+comment
+放置一個陷阱，敵人靠近引爆，傷害100

@@ -1,0 +1,16 @@
+﻿num
+4
+name
+神劍祝福
+level
+1
+type
+3
+cost
+1
+effect
+4
+typegroup
+1
+comment
+裝備攻擊力提升值加10

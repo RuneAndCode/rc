@@ -1,0 +1,16 @@
+num
+8
+name
+白銀飛靴
+level
+2
+type
+3
+cost
+2
+effect
+8
+typegroup
+3
+comment
+跑速+10

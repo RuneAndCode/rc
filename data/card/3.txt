@@ -1,0 +1,16 @@
+﻿num
+3
+name
+鳳凰降臨
+level
+1
+type
+1
+cost
+1
+effect
+3
+typegroup
+1
+comment
+召喚鳳凰

@@ -1,0 +1,16 @@
+num
+12
+name
+智慧女神的恩賜
+level
+2
+type
+2
+cost
+2
+effect
+12
+typegroup
+6
+comment
+智慧提升5，持續5秒

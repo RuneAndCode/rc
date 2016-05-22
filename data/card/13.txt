@@ -1,0 +1,17 @@
+num
+13
+name
+深淵皇女
+level
+6
+type
+1
+cost
+5
+effect
+13
+typegroup
+2
+comment
+遭受暗殺的公主，在黑暗的深淵中
+再次現身於人世，散佈恐懼與絕望

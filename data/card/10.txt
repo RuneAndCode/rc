@@ -1,0 +1,16 @@
+num
+10
+name
+六角印記
+level
+2
+type
+3
+cost
+1
+effect
+10
+typegroup
+4
+comment
+魔法防禦力+3
